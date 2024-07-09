@@ -1,0 +1,23 @@
+{
+  "name": "ts-template",
+  "version": "1.0.0",
+  "description": "My template for typescript projects",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx ts-node src/main.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dvorchuck/ts-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dvorchuck/ts-template/issues"
+  },
+  "homepage": "https://github.com/dvorchuck/ts-template#readme",
+  "devDependencies": {
+    "@types/node": "^20.14.10"
+  }
+}
